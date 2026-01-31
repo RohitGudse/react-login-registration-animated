@@ -37,6 +37,12 @@
     ]
   },
   "devDependencies": {
-    "vite": "^7.3.1"
+    "vite": "^5.x.x"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
+
 }
