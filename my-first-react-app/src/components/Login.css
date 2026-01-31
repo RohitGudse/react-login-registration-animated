@@ -94,3 +94,19 @@
   cursor: pointer;
   color: #1d2671;
 }
+
+
+.form button:hover{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  height: 120px;
+  font-display: auto;
+  translate: initial;
+  overflow: hidden;
+  list-style: decimal;
+  border-radius: 20px;
+  border-bottom: #1d2671;
+  padding-right: 20%;
+}
+
+
